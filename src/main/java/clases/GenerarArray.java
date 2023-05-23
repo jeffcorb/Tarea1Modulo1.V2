@@ -12,7 +12,7 @@ public class GenerarArray {
     }
 
     public static int[] listaAleatoria(int tamanoLista) {
-        var listaAleatoria = new int[tamanoLista];
+        final var listaAleatoria = new int[tamanoLista];
         final var faker = new Faker();
         for (var i = 0; i < tamanoLista; i++) {
             listaAleatoria[i] = faker.number().numberBetween(100, 1000);
@@ -38,7 +38,7 @@ public class GenerarArray {
     }
 
     public static String[] listaAleatoriaNombres(int tamanoLista) {
-        var listaAleatoriaNombres = new String[tamanoLista];
+        final var listaAleatoriaNombres = new String[tamanoLista];
         final var faker = new Faker();
         for (var i = 0; i < tamanoLista; i++) {
             listaAleatoriaNombres[i] = faker.name().firstName();
@@ -48,13 +48,13 @@ public class GenerarArray {
 
     public static String[] bubbleSortString(String[] listaAleatorioNombres, int tamanoLista) {
 
-        for (int i = 0; i < tamanoLista - 1; i++) {
+        for (var i = 0; i < tamanoLista - 1; i++) {
             var swapped = false;
 
-            for (int j = 0; j < tamanoLista - i - 1; j++) {
+            for (var j = 0; j < tamanoLista - i - 1; j++) {
                 if (listaAleatorioNombres[j].compareTo(listaAleatorioNombres[j + 1]) > 0) {
                     // Intercambiar las palabras
-                    String temp = listaAleatorioNombres[j];
+                    var temp = listaAleatorioNombres[j];
                     listaAleatorioNombres[j] = listaAleatorioNombres[j + 1];
                     listaAleatorioNombres[j + 1] = temp;
                     swapped = true;
@@ -78,8 +78,8 @@ public class GenerarArray {
 
     public static List<Enemigo> bubbleSortAtaqueEnemigo(List<Enemigo> enemigo, int tamanoLista) {
 
-        for (int i = 0; i < tamanoLista - 1; i++) {
-            for (int j = 0; j < tamanoLista - i - 1; j++) {
+        for (var i = 0; i < tamanoLista - 1; i++) {
+            for (var j = 0; j < tamanoLista - i - 1; j++) {
                 if (enemigo.get(j).getAtaque() > (enemigo.get(j + 1).getAtaque())) {
                     Enemigo temp = enemigo.get(j);
                     enemigo.set(j, enemigo.get(j + 1));
@@ -92,8 +92,8 @@ public class GenerarArray {
 
     public static List<Enemigo> bubbleSortNombreEnemigo(List<Enemigo> enemigo, int tamanoLista) {
 
-        for (int i = 0; i < tamanoLista - 1; i++) {
-            for (int j = 0; j < tamanoLista - i - 1; j++) {
+        for (var i = 0; i < tamanoLista - 1; i++) {
+            for (var j = 0; j < tamanoLista - i - 1; j++) {
                 if (enemigo.get(j).getNombre().compareTo(enemigo.get(j + 1).getNombre()) > 0) {
                     Enemigo temp = enemigo.get(j);
                     enemigo.set(j, enemigo.get(j + 1));
