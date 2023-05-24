@@ -81,7 +81,7 @@ public class GenerarArray {
         for (var i = 0; i < tamanoLista - 1; i++) {
             for (var j = 0; j < tamanoLista - i - 1; j++) {
                 if (enemigo.get(j).getAtaque() > (enemigo.get(j + 1).getAtaque())) {
-                    Enemigo temp = enemigo.get(j);
+                    final var temp = enemigo.get(j);
                     enemigo.set(j, enemigo.get(j + 1));
                     enemigo.set(j + 1, temp);
                 }
@@ -95,7 +95,7 @@ public class GenerarArray {
         for (var i = 0; i < tamanoLista - 1; i++) {
             for (var j = 0; j < tamanoLista - i - 1; j++) {
                 if (enemigo.get(j).getNombre().compareTo(enemigo.get(j + 1).getNombre()) > 0) {
-                    Enemigo temp = enemigo.get(j);
+                    final var temp = enemigo.get(j);
                     enemigo.set(j, enemigo.get(j + 1));
                     enemigo.set(j + 1, temp);
                 }
