@@ -1,0 +1,195 @@
+11:47:00.871 DEBUG Tarea1Modulo4 - Ejercicio 1
+11:47:00.875 DEBUG Tarea1Modulo4 - Lista de enemigos: 
+
+11:47:02.881 DEBUG Tarea1Modulo4 - Enemigo{id=1, nombre='Jennefer', peso=31.01, ataque=20, puntosExp=7.33, esTerrestre=true}
+11:47:02.881 DEBUG Tarea1Modulo4 - Enemigo{id=2, nombre='Ezra', peso=55.25, ataque=12, puntosExp=0.35, esTerrestre=false}
+11:47:02.881 DEBUG Tarea1Modulo4 - Enemigo{id=3, nombre='Donald', peso=76.03, ataque=19, puntosExp=4.02, esTerrestre=false}
+11:47:02.881 DEBUG Tarea1Modulo4 - Enemigo{id=4, nombre='Florencio', peso=38.86, ataque=19, puntosExp=6.28, esTerrestre=false}
+11:47:02.881 DEBUG Tarea1Modulo4 - Enemigo{id=5, nombre='Rueben', peso=54.58, ataque=17, puntosExp=1.16, esTerrestre=true}
+11:47:02.881 DEBUG Tarea1Modulo4 - Enemigo{id=6, nombre='Tomoko', peso=62.37, ataque=16, puntosExp=9.21, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=7, nombre='Lloyd', peso=59.95, ataque=21, puntosExp=4.58, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=8, nombre='Ethelyn', peso=30.58, ataque=27, puntosExp=2.77, esTerrestre=false}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=9, nombre='Stacey', peso=60.96, ataque=15, puntosExp=9.37, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=10, nombre='Eugene', peso=54.94, ataque=17, puntosExp=0.78, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=11, nombre='Vince', peso=38.48, ataque=13, puntosExp=1.62, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=12, nombre='Rolland', peso=64.16, ataque=17, puntosExp=0.79, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=13, nombre='Tasia', peso=48.26, ataque=19, puntosExp=5.82, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=14, nombre='Anh', peso=34.5, ataque=10, puntosExp=3.59, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=15, nombre='Sanjuana', peso=49.71, ataque=25, puntosExp=3.39, esTerrestre=false}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=16, nombre='Anneliese', peso=52.9, ataque=26, puntosExp=0.09, esTerrestre=true}
+11:47:02.882 DEBUG Tarea1Modulo4 - Enemigo{id=17, nombre='Gustavo', peso=59.74, ataque=11, puntosExp=6.94, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=18, nombre='Julius', peso=62.09, ataque=24, puntosExp=7.53, esTerrestre=false}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=19, nombre='Shantelle', peso=66.68, ataque=23, puntosExp=7.81, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=20, nombre='Olin', peso=37.88, ataque=11, puntosExp=5.43, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=21, nombre='Mathew', peso=45.01, ataque=11, puntosExp=3.95, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=22, nombre='Ilana', peso=50.91, ataque=21, puntosExp=7.18, esTerrestre=false}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=23, nombre='Israel', peso=48.9, ataque=14, puntosExp=9.28, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=24, nombre='Ron', peso=71.97, ataque=17, puntosExp=8.74, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=25, nombre='Charlene', peso=57.51, ataque=21, puntosExp=0.56, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=26, nombre='Huey', peso=40.17, ataque=10, puntosExp=9.47, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=27, nombre='Tyler', peso=61.72, ataque=17, puntosExp=6.49, esTerrestre=true}
+11:47:02.883 DEBUG Tarea1Modulo4 - Enemigo{id=28, nombre='Marleen', peso=43.3, ataque=19, puntosExp=0.63, esTerrestre=true}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=29, nombre='Marlena', peso=31.42, ataque=21, puntosExp=0.45, esTerrestre=true}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=30, nombre='Amos', peso=67.74, ataque=19, puntosExp=2.6, esTerrestre=true}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=31, nombre='Marcelo', peso=66.47, ataque=10, puntosExp=6.45, esTerrestre=false}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=32, nombre='Domitila', peso=52.66, ataque=20, puntosExp=3.18, esTerrestre=true}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=33, nombre='Antonina', peso=69.84, ataque=20, puntosExp=6.43, esTerrestre=true}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=34, nombre='German', peso=69.37, ataque=23, puntosExp=5.38, esTerrestre=false}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=35, nombre='Dayle', peso=73.7, ataque=18, puntosExp=6.53, esTerrestre=false}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=36, nombre='Savannah', peso=69.93, ataque=16, puntosExp=0.88, esTerrestre=true}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=37, nombre='Rena', peso=57.14, ataque=27, puntosExp=1.61, esTerrestre=true}
+11:47:02.884 DEBUG Tarea1Modulo4 - Enemigo{id=38, nombre='Cameron', peso=79.47, ataque=18, puntosExp=4.22, esTerrestre=false}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=39, nombre='Raymundo', peso=66.91, ataque=19, puntosExp=3.63, esTerrestre=true}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=40, nombre='Dia', peso=31.42, ataque=12, puntosExp=1.45, esTerrestre=false}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=41, nombre='Eugenio', peso=39.69, ataque=20, puntosExp=1.31, esTerrestre=true}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=42, nombre='Darell', peso=52.79, ataque=25, puntosExp=0.18, esTerrestre=true}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=43, nombre='Verna', peso=40.44, ataque=15, puntosExp=5.58, esTerrestre=false}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=44, nombre='Jenny', peso=67.82, ataque=20, puntosExp=8.78, esTerrestre=true}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=45, nombre='Yolonda', peso=35.51, ataque=15, puntosExp=5.34, esTerrestre=true}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=46, nombre='Pearlene', peso=76.52, ataque=22, puntosExp=7.08, esTerrestre=false}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=47, nombre='Randy', peso=46.49, ataque=21, puntosExp=4.29, esTerrestre=true}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=48, nombre='Gerald', peso=62.49, ataque=26, puntosExp=4.82, esTerrestre=false}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=49, nombre='Cesar', peso=59.93, ataque=19, puntosExp=2.63, esTerrestre=true}
+11:47:02.885 DEBUG Tarea1Modulo4 - Enemigo{id=50, nombre='Tanna', peso=31.18, ataque=27, puntosExp=2.13, esTerrestre=false}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=51, nombre='Johnette', peso=79.42, ataque=16, puntosExp=4.96, esTerrestre=false}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=52, nombre='Zane', peso=50.47, ataque=17, puntosExp=5.72, esTerrestre=true}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=53, nombre='Monroe', peso=63.98, ataque=24, puntosExp=4.02, esTerrestre=true}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=54, nombre='Lauryn', peso=45.17, ataque=13, puntosExp=1.18, esTerrestre=true}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=55, nombre='Ruben', peso=44.29, ataque=22, puntosExp=6.64, esTerrestre=true}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=56, nombre='Elois', peso=57.29, ataque=27, puntosExp=5.13, esTerrestre=true}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=57, nombre='Ivette', peso=47.95, ataque=26, puntosExp=8.33, esTerrestre=false}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=58, nombre='Lorenzo', peso=73.11, ataque=20, puntosExp=0.37, esTerrestre=true}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=59, nombre='Damion', peso=55.66, ataque=17, puntosExp=4.64, esTerrestre=false}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=60, nombre='Rosalee', peso=59.08, ataque=27, puntosExp=1.5, esTerrestre=false}
+11:47:02.886 DEBUG Tarea1Modulo4 - Enemigo{id=61, nombre='Zulema', peso=62.42, ataque=17, puntosExp=6.21, esTerrestre=false}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=62, nombre='Bernadette', peso=61.26, ataque=15, puntosExp=0.8, esTerrestre=true}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=63, nombre='Raymon', peso=30.64, ataque=23, puntosExp=7.71, esTerrestre=true}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=64, nombre='Johnie', peso=75.24, ataque=17, puntosExp=3.1, esTerrestre=true}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=65, nombre='Juliana', peso=58.36, ataque=24, puntosExp=3.15, esTerrestre=true}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=66, nombre='Maynard', peso=74.98, ataque=12, puntosExp=2.16, esTerrestre=true}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=67, nombre='Nolan', peso=34.57, ataque=20, puntosExp=3.93, esTerrestre=true}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=68, nombre='Sasha', peso=64.96, ataque=26, puntosExp=1.45, esTerrestre=true}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=69, nombre='Fredric', peso=41.95, ataque=19, puntosExp=0.55, esTerrestre=false}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=70, nombre='Janelle', peso=75.39, ataque=13, puntosExp=2.78, esTerrestre=false}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=71, nombre='Lora', peso=61.32, ataque=21, puntosExp=4.62, esTerrestre=true}
+11:47:02.887 DEBUG Tarea1Modulo4 - Enemigo{id=72, nombre='Marlena', peso=64.66, ataque=24, puntosExp=6.23, esTerrestre=false}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=73, nombre='Buck', peso=34.73, ataque=23, puntosExp=8.56, esTerrestre=false}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=74, nombre='Cecil', peso=35.86, ataque=27, puntosExp=3.56, esTerrestre=true}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=75, nombre='Carrol', peso=69.05, ataque=20, puntosExp=3.61, esTerrestre=false}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=76, nombre='Nubia', peso=34.23, ataque=14, puntosExp=2.83, esTerrestre=true}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=77, nombre='Velma', peso=33.37, ataque=22, puntosExp=0.97, esTerrestre=false}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=78, nombre='Jake', peso=59.62, ataque=15, puntosExp=3.49, esTerrestre=false}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=79, nombre='Shawanda', peso=72.03, ataque=16, puntosExp=6.7, esTerrestre=false}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=80, nombre='Danny', peso=49.81, ataque=11, puntosExp=6.28, esTerrestre=true}
+11:47:02.888 DEBUG Tarea1Modulo4 - Enemigo{id=81, nombre='Ligia', peso=68.08, ataque=18, puntosExp=2.36, esTerrestre=true}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=82, nombre='Dick', peso=41.55, ataque=15, puntosExp=1.33, esTerrestre=false}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=83, nombre='Beckie', peso=35.22, ataque=26, puntosExp=1.29, esTerrestre=false}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=84, nombre='Steve', peso=55.55, ataque=18, puntosExp=2.88, esTerrestre=true}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=85, nombre='Juanita', peso=71.21, ataque=22, puntosExp=3.89, esTerrestre=false}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=86, nombre='Donnell', peso=77.25, ataque=18, puntosExp=9.09, esTerrestre=false}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=87, nombre='Charmain', peso=61.12, ataque=27, puntosExp=9.42, esTerrestre=false}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=88, nombre='Jone', peso=72.65, ataque=22, puntosExp=5.72, esTerrestre=false}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=89, nombre='Suzanne', peso=68.99, ataque=11, puntosExp=5.25, esTerrestre=true}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=90, nombre='Georgiann', peso=76.45, ataque=18, puntosExp=0.19, esTerrestre=false}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=91, nombre='Samira', peso=50.15, ataque=23, puntosExp=6.0, esTerrestre=false}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=92, nombre='Pasquale', peso=62.52, ataque=25, puntosExp=7.25, esTerrestre=true}
+11:47:02.889 DEBUG Tarea1Modulo4 - Enemigo{id=93, nombre='Leigha', peso=47.83, ataque=19, puntosExp=3.87, esTerrestre=true}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=94, nombre='Jeneva', peso=43.18, ataque=15, puntosExp=0.86, esTerrestre=false}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=95, nombre='Luther', peso=70.73, ataque=12, puntosExp=6.51, esTerrestre=false}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=96, nombre='Grayce', peso=49.12, ataque=17, puntosExp=1.07, esTerrestre=false}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=97, nombre='Ivory', peso=59.82, ataque=19, puntosExp=5.39, esTerrestre=true}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=98, nombre='Cedrick', peso=31.34, ataque=19, puntosExp=9.15, esTerrestre=false}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=99, nombre='Dallas', peso=49.66, ataque=22, puntosExp=2.57, esTerrestre=true}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=100, nombre='Evette', peso=62.41, ataque=24, puntosExp=5.7, esTerrestre=true}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=101, nombre='Tomiko', peso=43.87, ataque=24, puntosExp=6.16, esTerrestre=true}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=102, nombre='Danae', peso=50.05, ataque=14, puntosExp=9.45, esTerrestre=true}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=103, nombre='Wanda', peso=58.3, ataque=14, puntosExp=7.28, esTerrestre=true}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=104, nombre='Perry', peso=48.88, ataque=11, puntosExp=7.4, esTerrestre=false}
+11:47:02.890 DEBUG Tarea1Modulo4 - Enemigo{id=105, nombre='Altha', peso=67.07, ataque=16, puntosExp=4.59, esTerrestre=false}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=106, nombre='Walker', peso=66.36, ataque=24, puntosExp=3.98, esTerrestre=false}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=107, nombre='Davis', peso=63.95, ataque=16, puntosExp=5.39, esTerrestre=false}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=108, nombre='Glady', peso=77.12, ataque=25, puntosExp=1.67, esTerrestre=true}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=109, nombre='Octavia', peso=68.67, ataque=15, puntosExp=1.54, esTerrestre=false}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=110, nombre='Leida', peso=60.45, ataque=18, puntosExp=6.31, esTerrestre=true}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=111, nombre='Desirae', peso=33.2, ataque=26, puntosExp=6.65, esTerrestre=true}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=112, nombre='Kirby', peso=73.63, ataque=12, puntosExp=8.97, esTerrestre=false}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=113, nombre='Tad', peso=35.76, ataque=10, puntosExp=6.68, esTerrestre=false}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=114, nombre='Liane', peso=57.87, ataque=25, puntosExp=3.83, esTerrestre=false}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=115, nombre='Alexis', peso=54.0, ataque=27, puntosExp=2.66, esTerrestre=false}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=116, nombre='Esteban', peso=42.47, ataque=14, puntosExp=2.27, esTerrestre=true}
+11:47:02.891 DEBUG Tarea1Modulo4 - Enemigo{id=117, nombre='Randal', peso=43.99, ataque=21, puntosExp=7.77, esTerrestre=false}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=118, nombre='Zachery', peso=64.35, ataque=11, puntosExp=0.56, esTerrestre=false}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=119, nombre='Lon', peso=52.79, ataque=15, puntosExp=8.7, esTerrestre=true}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=120, nombre='Carolee', peso=73.34, ataque=21, puntosExp=4.53, esTerrestre=false}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=121, nombre='Dwain', peso=58.88, ataque=12, puntosExp=4.23, esTerrestre=true}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=122, nombre='Colleen', peso=46.85, ataque=18, puntosExp=8.78, esTerrestre=false}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=123, nombre='Harrison', peso=57.65, ataque=14, puntosExp=7.34, esTerrestre=false}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=124, nombre='Kimberly', peso=65.11, ataque=26, puntosExp=4.28, esTerrestre=false}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=125, nombre='Carlee', peso=66.46, ataque=19, puntosExp=1.03, esTerrestre=false}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=126, nombre='Bertha', peso=68.32, ataque=19, puntosExp=4.57, esTerrestre=true}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=127, nombre='Lonny', peso=47.96, ataque=15, puntosExp=6.08, esTerrestre=true}
+11:47:02.892 DEBUG Tarea1Modulo4 - Enemigo{id=128, nombre='Oswaldo', peso=36.0, ataque=12, puntosExp=2.42, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=129, nombre='Doyle', peso=59.86, ataque=14, puntosExp=7.72, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=130, nombre='Anneliese', peso=71.44, ataque=20, puntosExp=5.26, esTerrestre=false}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=131, nombre='Dara', peso=64.38, ataque=17, puntosExp=1.73, esTerrestre=false}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=132, nombre='Hermila', peso=43.95, ataque=21, puntosExp=5.46, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=133, nombre='Sirena', peso=60.32, ataque=17, puntosExp=8.6, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=134, nombre='Raul', peso=36.59, ataque=11, puntosExp=0.43, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=135, nombre='Maurice', peso=55.22, ataque=13, puntosExp=9.06, esTerrestre=false}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=136, nombre='Nubia', peso=44.64, ataque=26, puntosExp=5.97, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=137, nombre='Emely', peso=63.07, ataque=27, puntosExp=0.67, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=138, nombre='Keva', peso=60.04, ataque=19, puntosExp=4.42, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=139, nombre='Latina', peso=41.09, ataque=10, puntosExp=0.02, esTerrestre=true}
+11:47:02.893 DEBUG Tarea1Modulo4 - Enemigo{id=140, nombre='Clark', peso=64.31, ataque=21, puntosExp=9.43, esTerrestre=false}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=141, nombre='Darcie', peso=66.07, ataque=21, puntosExp=1.39, esTerrestre=true}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=142, nombre='Wendie', peso=41.28, ataque=11, puntosExp=2.37, esTerrestre=false}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=143, nombre='Hipolito', peso=63.03, ataque=16, puntosExp=0.9, esTerrestre=true}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=144, nombre='Aracely', peso=62.37, ataque=13, puntosExp=0.76, esTerrestre=true}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=145, nombre='Samual', peso=33.14, ataque=15, puntosExp=1.12, esTerrestre=true}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=146, nombre='Trey', peso=41.4, ataque=17, puntosExp=9.1, esTerrestre=false}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=147, nombre='Anjelica', peso=51.2, ataque=19, puntosExp=2.56, esTerrestre=true}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=148, nombre='Darrel', peso=31.48, ataque=16, puntosExp=8.21, esTerrestre=true}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=149, nombre='John', peso=35.49, ataque=15, puntosExp=3.38, esTerrestre=false}
+11:47:02.894 DEBUG Tarea1Modulo4 - Enemigo{id=150, nombre='Alexis', peso=58.96, ataque=22, puntosExp=8.89, esTerrestre=false}
+11:47:02.894 INFO  Tarea1Modulo4 - Cinco Enemigos Aleatorios
+11:47:02.895 INFO  Tarea1Modulo4 - Enemigo{id=56, nombre='Elois', peso=57.29, ataque=27, puntosExp=5.13, esTerrestre=true}
+11:47:02.895 INFO  Tarea1Modulo4 - Enemigo{id=63, nombre='Raymon', peso=30.64, ataque=23, puntosExp=7.71, esTerrestre=true}
+11:47:02.895 INFO  Tarea1Modulo4 - Enemigo{id=72, nombre='Marlena', peso=64.66, ataque=24, puntosExp=6.23, esTerrestre=false}
+11:47:02.895 INFO  Tarea1Modulo4 - Enemigo{id=107, nombre='Davis', peso=63.95, ataque=16, puntosExp=5.39, esTerrestre=false}
+11:47:02.895 INFO  Tarea1Modulo4 - Enemigo{id=12, nombre='Rolland', peso=64.16, ataque=17, puntosExp=0.79, esTerrestre=true}
+11:47:02.896 DEBUG Tarea1Modulo4 - Tamaño de Lista de Numeros Aleatorios: 42
+11:47:02.897 INFO  Tarea1Modulo4 - Lista Generada: 
+
+ [731, 289, 411, 284, 805, 679, 807, 533, 158, 393, 308, 165, 413, 632, 243, 698, 227, 365, 849, 273, 526, 286, 742, 800, 292, 718, 293, 902, 421, 669, 529, 326, 952, 743, 227, 442, 497, 942, 938, 433, 918, 352] 
+
+11:47:02.897 INFO  Tarea1Modulo4 - Lista ordenada:
+
+ [158, 165, 227, 227, 243, 273, 284, 286, 289, 292, 293, 308, 326, 352, 365, 393, 411, 413, 421, 433, 442, 497, 526, 529, 533, 632, 669, 679, 698, 718, 731, 742, 743, 800, 805, 807, 849, 902, 918, 938, 942, 952] 
+
+11:47:02.897 DEBUG Tarea1Modulo4 - Cantidad de Nombres : 41
+11:47:02.909 INFO  Tarea1Modulo4 - Lista de Nombres: 
+
+ [Joana, Marcos, Ernest, Fred, Elwood, Miles, Lasonya, Shirely, Refugio, Katrina, Vern, Lemuel, Ivana, Mack, Rana, Chong, Reina, Erwin, Jessie, Sierra, Jimmie, Bobbie, Antony, Delpha, Emerson, Lowell, James, Fabian, Gaynelle, Ellis, Maragret, Elodia, Kelley, Frederic, Jorge, Marketta, Mel, Colby, Eugenia, Cristopher, Felipe] 
+
+11:47:02.909 INFO  Tarea1Modulo4 - Lista Ordenada de Nombres: 
+
+ [Antony, Bobbie, Chong, Colby, Cristopher, Delpha, Ellis, Elodia, Elwood, Emerson, Ernest, Erwin, Eugenia, Fabian, Felipe, Fred, Frederic, Gaynelle, Ivana, James, Jessie, Jimmie, Joana, Jorge, Katrina, Kelley, Lasonya, Lemuel, Lowell, Mack, Maragret, Marcos, Marketta, Mel, Miles, Rana, Refugio, Reina, Shirely, Sierra, Vern] 
+
+11:47:02.910 DEBUG Tarea1Modulo4 - Cantidad de Enemigos : 31
+11:47:03.267 INFO  Tarea1Modulo4 - Lista de Enemigos: 
+
+  [Enemigo{id=1, nombre='Nicki', peso=68.46, ataque=13, puntosExp=0.7, esTerrestre=true}, Enemigo{id=2, nombre='Wm', peso=52.66, ataque=12, puntosExp=8.75, esTerrestre=false}, Enemigo{id=3, nombre='Branden', peso=61.99, ataque=26, puntosExp=5.04, esTerrestre=true}, Enemigo{id=4, nombre='Sheena', peso=41.18, ataque=13, puntosExp=1.97, esTerrestre=true}, Enemigo{id=5, nombre='Lydia', peso=69.97, ataque=22, puntosExp=6.98, esTerrestre=false}, Enemigo{id=6, nombre='Krystin', peso=46.37, ataque=14, puntosExp=3.27, esTerrestre=false}, Enemigo{id=7, nombre='Alexander', peso=47.46, ataque=22, puntosExp=6.98, esTerrestre=true}, Enemigo{id=8, nombre='Freida', peso=65.62, ataque=24, puntosExp=4.13, esTerrestre=true}, Enemigo{id=9, nombre='Noah', peso=39.16, ataque=20, puntosExp=7.59, esTerrestre=false}, Enemigo{id=10, nombre='Isreal', peso=76.83, ataque=17, puntosExp=2.4, esTerrestre=true}, Enemigo{id=11, nombre='Letitia', peso=53.92, ataque=12, puntosExp=8.89, esTerrestre=true}, Enemigo{id=12, nombre='Lou', peso=36.38, ataque=18, puntosExp=4.8, esTerrestre=false}, Enemigo{id=13, nombre='Darrick', peso=70.64, ataque=11, puntosExp=1.65, esTerrestre=true}, Enemigo{id=14, nombre='Lynwood', peso=44.95, ataque=11, puntosExp=1.09, esTerrestre=false}, Enemigo{id=15, nombre='Chauncey', peso=57.94, ataque=16, puntosExp=3.11, esTerrestre=false}, Enemigo{id=16, nombre='Felice', peso=45.5, ataque=21, puntosExp=9.37, esTerrestre=true}, Enemigo{id=17, nombre='Lannie', peso=59.91, ataque=10, puntosExp=8.17, esTerrestre=true}, Enemigo{id=18, nombre='Patricia', peso=35.01, ataque=13, puntosExp=6.58, esTerrestre=true}, Enemigo{id=19, nombre='Melany', peso=74.99, ataque=14, puntosExp=3.51, esTerrestre=false}, Enemigo{id=20, nombre='Guy', peso=64.41, ataque=13, puntosExp=2.59, esTerrestre=true}, Enemigo{id=21, nombre='Mitch', peso=54.21, ataque=24, puntosExp=3.49, esTerrestre=true}, Enemigo{id=22, nombre='Solomon', peso=66.32, ataque=10, puntosExp=4.91, esTerrestre=false}, Enemigo{id=23, nombre='Chadwick', peso=39.7, ataque=22, puntosExp=8.17, esTerrestre=true}, Enemigo{id=24, nombre='Darnell', peso=52.52, ataque=13, puntosExp=3.82, esTerrestre=true}, Enemigo{id=25, nombre='Jeffery', peso=41.96, ataque=20, puntosExp=8.91, esTerrestre=false}, Enemigo{id=26, nombre='Rick', peso=69.2, ataque=15, puntosExp=8.63, esTerrestre=true}, Enemigo{id=27, nombre='Lulu', peso=54.72, ataque=21, puntosExp=8.26, esTerrestre=false}, Enemigo{id=28, nombre='Audria', peso=31.38, ataque=14, puntosExp=8.98, esTerrestre=false}, Enemigo{id=29, nombre='Yong', peso=65.23, ataque=17, puntosExp=8.4, esTerrestre=false}, Enemigo{id=30, nombre='Marianna', peso=31.65, ataque=12, puntosExp=6.45, esTerrestre=true}, Enemigo{id=31, nombre='Adolfo', peso=60.31, ataque=14, puntosExp=1.53, esTerrestre=false}] 
+
+11:47:03.267 INFO  Tarea1Modulo4 - Lista ordenada por ataque: 
+
+  [Enemigo{id=17, nombre='Lannie', peso=59.91, ataque=10, puntosExp=8.17, esTerrestre=true}, Enemigo{id=22, nombre='Solomon', peso=66.32, ataque=10, puntosExp=4.91, esTerrestre=false}, Enemigo{id=13, nombre='Darrick', peso=70.64, ataque=11, puntosExp=1.65, esTerrestre=true}, Enemigo{id=14, nombre='Lynwood', peso=44.95, ataque=11, puntosExp=1.09, esTerrestre=false}, Enemigo{id=2, nombre='Wm', peso=52.66, ataque=12, puntosExp=8.75, esTerrestre=false}, Enemigo{id=11, nombre='Letitia', peso=53.92, ataque=12, puntosExp=8.89, esTerrestre=true}, Enemigo{id=30, nombre='Marianna', peso=31.65, ataque=12, puntosExp=6.45, esTerrestre=true}, Enemigo{id=1, nombre='Nicki', peso=68.46, ataque=13, puntosExp=0.7, esTerrestre=true}, Enemigo{id=4, nombre='Sheena', peso=41.18, ataque=13, puntosExp=1.97, esTerrestre=true}, Enemigo{id=18, nombre='Patricia', peso=35.01, ataque=13, puntosExp=6.58, esTerrestre=true}, Enemigo{id=20, nombre='Guy', peso=64.41, ataque=13, puntosExp=2.59, esTerrestre=true}, Enemigo{id=24, nombre='Darnell', peso=52.52, ataque=13, puntosExp=3.82, esTerrestre=true}, Enemigo{id=6, nombre='Krystin', peso=46.37, ataque=14, puntosExp=3.27, esTerrestre=false}, Enemigo{id=19, nombre='Melany', peso=74.99, ataque=14, puntosExp=3.51, esTerrestre=false}, Enemigo{id=28, nombre='Audria', peso=31.38, ataque=14, puntosExp=8.98, esTerrestre=false}, Enemigo{id=31, nombre='Adolfo', peso=60.31, ataque=14, puntosExp=1.53, esTerrestre=false}, Enemigo{id=26, nombre='Rick', peso=69.2, ataque=15, puntosExp=8.63, esTerrestre=true}, Enemigo{id=15, nombre='Chauncey', peso=57.94, ataque=16, puntosExp=3.11, esTerrestre=false}, Enemigo{id=10, nombre='Isreal', peso=76.83, ataque=17, puntosExp=2.4, esTerrestre=true}, Enemigo{id=29, nombre='Yong', peso=65.23, ataque=17, puntosExp=8.4, esTerrestre=false}, Enemigo{id=12, nombre='Lou', peso=36.38, ataque=18, puntosExp=4.8, esTerrestre=false}, Enemigo{id=9, nombre='Noah', peso=39.16, ataque=20, puntosExp=7.59, esTerrestre=false}, Enemigo{id=25, nombre='Jeffery', peso=41.96, ataque=20, puntosExp=8.91, esTerrestre=false}, Enemigo{id=16, nombre='Felice', peso=45.5, ataque=21, puntosExp=9.37, esTerrestre=true}, Enemigo{id=27, nombre='Lulu', peso=54.72, ataque=21, puntosExp=8.26, esTerrestre=false}, Enemigo{id=5, nombre='Lydia', peso=69.97, ataque=22, puntosExp=6.98, esTerrestre=false}, Enemigo{id=7, nombre='Alexander', peso=47.46, ataque=22, puntosExp=6.98, esTerrestre=true}, Enemigo{id=23, nombre='Chadwick', peso=39.7, ataque=22, puntosExp=8.17, esTerrestre=true}, Enemigo{id=8, nombre='Freida', peso=65.62, ataque=24, puntosExp=4.13, esTerrestre=true}, Enemigo{id=21, nombre='Mitch', peso=54.21, ataque=24, puntosExp=3.49, esTerrestre=true}, Enemigo{id=3, nombre='Branden', peso=61.99, ataque=26, puntosExp=5.04, esTerrestre=true}] 
+
+11:47:03.268 DEBUG Tarea1Modulo4 - Cantidad de Enemigos : 41
+11:47:03.675 INFO  Tarea1Modulo4 - Lista de Enemigos: 
+
+  [Enemigo{id=1, nombre='Joel', peso=33.74, ataque=11, puntosExp=7.53, esTerrestre=false}, Enemigo{id=2, nombre='Drew', peso=40.3, ataque=21, puntosExp=1.42, esTerrestre=true}, Enemigo{id=3, nombre='Trudi', peso=61.72, ataque=18, puntosExp=1.26, esTerrestre=false}, Enemigo{id=4, nombre='Suzanne', peso=65.36, ataque=26, puntosExp=4.23, esTerrestre=false}, Enemigo{id=5, nombre='Lyndon', peso=51.88, ataque=12, puntosExp=6.88, esTerrestre=false}, Enemigo{id=6, nombre='Delpha', peso=52.99, ataque=14, puntosExp=5.01, esTerrestre=false}, Enemigo{id=7, nombre='Cami', peso=35.76, ataque=19, puntosExp=1.13, esTerrestre=true}, Enemigo{id=8, nombre='Louise', peso=57.1, ataque=27, puntosExp=1.74, esTerrestre=true}, Enemigo{id=9, nombre='Minh', peso=77.92, ataque=13, puntosExp=4.8, esTerrestre=true}, Enemigo{id=10, nombre='Lissa', peso=71.73, ataque=22, puntosExp=6.99, esTerrestre=false}, Enemigo{id=11, nombre='Anisha', peso=30.34, ataque=16, puntosExp=9.22, esTerrestre=true}, Enemigo{id=12, nombre='Fred', peso=37.58, ataque=26, puntosExp=5.01, esTerrestre=true}, Enemigo{id=13, nombre='Wynona', peso=32.82, ataque=16, puntosExp=8.97, esTerrestre=false}, Enemigo{id=14, nombre='Anibal', peso=64.66, ataque=11, puntosExp=2.83, esTerrestre=false}, Enemigo{id=15, nombre='Denese', peso=68.14, ataque=27, puntosExp=7.23, esTerrestre=true}, Enemigo{id=16, nombre='Charlsie', peso=49.21, ataque=20, puntosExp=2.12, esTerrestre=true}, Enemigo{id=17, nombre='Tiffanie', peso=44.44, ataque=17, puntosExp=1.8, esTerrestre=false}, Enemigo{id=18, nombre='Syble', peso=42.24, ataque=25, puntosExp=9.26, esTerrestre=true}, Enemigo{id=19, nombre='Curt', peso=72.72, ataque=24, puntosExp=2.56, esTerrestre=false}, Enemigo{id=20, nombre='Josiah', peso=66.3, ataque=27, puntosExp=8.45, esTerrestre=false}, Enemigo{id=21, nombre='Nellie', peso=45.69, ataque=25, puntosExp=8.63, esTerrestre=false}, Enemigo{id=22, nombre='Mario', peso=58.11, ataque=13, puntosExp=1.64, esTerrestre=true}, Enemigo{id=23, nombre='Sparkle', peso=69.77, ataque=17, puntosExp=3.33, esTerrestre=true}, Enemigo{id=24, nombre='Reinaldo', peso=44.94, ataque=20, puntosExp=3.27, esTerrestre=false}, Enemigo{id=25, nombre='David', peso=77.08, ataque=19, puntosExp=2.45, esTerrestre=false}, Enemigo{id=26, nombre='Jess', peso=59.36, ataque=15, puntosExp=6.14, esTerrestre=false}, Enemigo{id=27, nombre='Scottie', peso=64.81, ataque=13, puntosExp=6.99, esTerrestre=false}, Enemigo{id=28, nombre='Logan', peso=61.48, ataque=23, puntosExp=4.86, esTerrestre=false}, Enemigo{id=29, nombre='Dulce', peso=60.92, ataque=21, puntosExp=0.2, esTerrestre=false}, Enemigo{id=30, nombre='Johnson', peso=72.8, ataque=21, puntosExp=9.43, esTerrestre=false}, Enemigo{id=31, nombre='Delbert', peso=33.1, ataque=13, puntosExp=8.18, esTerrestre=true}, Enemigo{id=32, nombre='Fernando', peso=30.63, ataque=12, puntosExp=5.08, esTerrestre=false}, Enemigo{id=33, nombre='Jed', peso=48.18, ataque=14, puntosExp=8.75, esTerrestre=true}, Enemigo{id=34, nombre='Shirely', peso=69.94, ataque=23, puntosExp=9.19, esTerrestre=true}, Enemigo{id=35, nombre='Linsey', peso=76.67, ataque=24, puntosExp=8.33, esTerrestre=true}, Enemigo{id=36, nombre='Hiram', peso=64.61, ataque=20, puntosExp=7.15, esTerrestre=true}, Enemigo{id=37, nombre='Cassey', peso=57.37, ataque=11, puntosExp=0.6, esTerrestre=false}, Enemigo{id=38, nombre='Raymon', peso=60.31, ataque=13, puntosExp=6.69, esTerrestre=true}, Enemigo{id=39, nombre='Ellena', peso=30.27, ataque=15, puntosExp=2.51, esTerrestre=true}, Enemigo{id=40, nombre='Signe', peso=37.34, ataque=21, puntosExp=7.57, esTerrestre=true}, Enemigo{id=41, nombre='Carlton', peso=32.81, ataque=12, puntosExp=5.89, esTerrestre=false}] 
+
+11:47:03.676 INFO  Tarea1Modulo4 - Lista ordenada alfabeticamente por Nombre: 
+
+  [Enemigo{id=14, nombre='Anibal', peso=64.66, ataque=11, puntosExp=2.83, esTerrestre=false}, Enemigo{id=11, nombre='Anisha', peso=30.34, ataque=16, puntosExp=9.22, esTerrestre=true}, Enemigo{id=7, nombre='Cami', peso=35.76, ataque=19, puntosExp=1.13, esTerrestre=true}, Enemigo{id=41, nombre='Carlton', peso=32.81, ataque=12, puntosExp=5.89, esTerrestre=false}, Enemigo{id=37, nombre='Cassey', peso=57.37, ataque=11, puntosExp=0.6, esTerrestre=false}, Enemigo{id=16, nombre='Charlsie', peso=49.21, ataque=20, puntosExp=2.12, esTerrestre=true}, Enemigo{id=19, nombre='Curt', peso=72.72, ataque=24, puntosExp=2.56, esTerrestre=false}, Enemigo{id=25, nombre='David', peso=77.08, ataque=19, puntosExp=2.45, esTerrestre=false}, Enemigo{id=31, nombre='Delbert', peso=33.1, ataque=13, puntosExp=8.18, esTerrestre=true}, Enemigo{id=6, nombre='Delpha', peso=52.99, ataque=14, puntosExp=5.01, esTerrestre=false}, Enemigo{id=15, nombre='Denese', peso=68.14, ataque=27, puntosExp=7.23, esTerrestre=true}, Enemigo{id=2, nombre='Drew', peso=40.3, ataque=21, puntosExp=1.42, esTerrestre=true}, Enemigo{id=29, nombre='Dulce', peso=60.92, ataque=21, puntosExp=0.2, esTerrestre=false}, Enemigo{id=39, nombre='Ellena', peso=30.27, ataque=15, puntosExp=2.51, esTerrestre=true}, Enemigo{id=32, nombre='Fernando', peso=30.63, ataque=12, puntosExp=5.08, esTerrestre=false}, Enemigo{id=12, nombre='Fred', peso=37.58, ataque=26, puntosExp=5.01, esTerrestre=true}, Enemigo{id=36, nombre='Hiram', peso=64.61, ataque=20, puntosExp=7.15, esTerrestre=true}, Enemigo{id=33, nombre='Jed', peso=48.18, ataque=14, puntosExp=8.75, esTerrestre=true}, Enemigo{id=26, nombre='Jess', peso=59.36, ataque=15, puntosExp=6.14, esTerrestre=false}, Enemigo{id=1, nombre='Joel', peso=33.74, ataque=11, puntosExp=7.53, esTerrestre=false}, Enemigo{id=30, nombre='Johnson', peso=72.8, ataque=21, puntosExp=9.43, esTerrestre=false}, Enemigo{id=20, nombre='Josiah', peso=66.3, ataque=27, puntosExp=8.45, esTerrestre=false}, Enemigo{id=35, nombre='Linsey', peso=76.67, ataque=24, puntosExp=8.33, esTerrestre=true}, Enemigo{id=10, nombre='Lissa', peso=71.73, ataque=22, puntosExp=6.99, esTerrestre=false}, Enemigo{id=28, nombre='Logan', peso=61.48, ataque=23, puntosExp=4.86, esTerrestre=false}, Enemigo{id=8, nombre='Louise', peso=57.1, ataque=27, puntosExp=1.74, esTerrestre=true}, Enemigo{id=5, nombre='Lyndon', peso=51.88, ataque=12, puntosExp=6.88, esTerrestre=false}, Enemigo{id=22, nombre='Mario', peso=58.11, ataque=13, puntosExp=1.64, esTerrestre=true}, Enemigo{id=9, nombre='Minh', peso=77.92, ataque=13, puntosExp=4.8, esTerrestre=true}, Enemigo{id=21, nombre='Nellie', peso=45.69, ataque=25, puntosExp=8.63, esTerrestre=false}, Enemigo{id=38, nombre='Raymon', peso=60.31, ataque=13, puntosExp=6.69, esTerrestre=true}, Enemigo{id=24, nombre='Reinaldo', peso=44.94, ataque=20, puntosExp=3.27, esTerrestre=false}, Enemigo{id=27, nombre='Scottie', peso=64.81, ataque=13, puntosExp=6.99, esTerrestre=false}, Enemigo{id=34, nombre='Shirely', peso=69.94, ataque=23, puntosExp=9.19, esTerrestre=true}, Enemigo{id=40, nombre='Signe', peso=37.34, ataque=21, puntosExp=7.57, esTerrestre=true}, Enemigo{id=23, nombre='Sparkle', peso=69.77, ataque=17, puntosExp=3.33, esTerrestre=true}, Enemigo{id=4, nombre='Suzanne', peso=65.36, ataque=26, puntosExp=4.23, esTerrestre=false}, Enemigo{id=18, nombre='Syble', peso=42.24, ataque=25, puntosExp=9.26, esTerrestre=true}, Enemigo{id=17, nombre='Tiffanie', peso=44.44, ataque=17, puntosExp=1.8, esTerrestre=false}, Enemigo{id=3, nombre='Trudi', peso=61.72, ataque=18, puntosExp=1.26, esTerrestre=false}, Enemigo{id=13, nombre='Wynona', peso=32.82, ataque=16, puntosExp=8.97, esTerrestre=false}] 
+
